@@ -28,7 +28,7 @@ The models can be trained on various datasets, such as:
 - BioRED
 - ChemProt
 - BC5CDR
-- Reddit_Impacts 
+- Reddit_Impacts
 
 **Notes:** 
 - The ChemProt dataset is sourced from [End-to-End Models for Chemical–Protein Interaction Extraction](https://github.com/bionlproc/end-to-end-ChemProt).
